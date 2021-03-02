@@ -1,14 +1,14 @@
 
-# Booking app
+# IcekWatch
 <img src="screenshot/banner.jpg" width="850">
 
 # ScreenShot
 
-<img src="screenshot/s1.png" width="350"><img src="screenshot/s2.png" width="350">
+<img src="screenshot/s1.png" width="282"><img src="screenshot/s2.png" width="282">
 
-<img src="screenshot/s3.png" width="350"><img src="screenshot/s4.png" width="350">
+<img src="screenshot/s3.png" width="282"><img src="screenshot/s4.png" width="282">
 
-<img src="screenshot/s6.png" width="350"><img src="screenshot/s7.png" width="350">
+<img src="screenshot/s6.png" ><img src="screenshot/s7.png" >
 
 
 # Developer
